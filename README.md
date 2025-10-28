@@ -94,9 +94,3 @@ This project demonstrates:
 👩🏽‍💻 U Dekontee Kun
 📬 Email: udekontee@gmail.com
 🔗 Portfolio: github.com/udekontee
-
-✅ Why This README Works
-It ties exactly to your visuals:
-        - Highlights your KPIs and slicers.
-        - Explains your MySQL–Power BI workflow.
-        - Positions you as a data storyteller — not just a dashboard maker.
